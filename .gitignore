@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+workflowlens-backend/target/
+
+# Node
+workflowlens-frontend/node_modules/
+workflowlens-frontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

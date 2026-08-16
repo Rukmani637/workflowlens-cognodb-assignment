@@ -397,12 +397,14 @@ Systems
 [WorkflowLens Systems](docs/screenshots/systems.png)
 
 18. Hosted Demo
-Demo URL: To be added after deployment.
-The hosted demo will provide access to the running WorkflowLens application.
+Demo URL: 
+[Open WorkflowLens](https://workflowlens-cognodb-assignment.vercel.app/)
+The hosted demo is provide access to the running WorkflowLens application.
 
 19. Screen Recording
-Screen recording: To be added.
-The recording demonstrates:
+[Watch the WorkflowLens Demo]## Screen Recording
+
+[Watch the WorkflowLens Demo] https://youtu.be/91l96AB9ygI
 
 Dashboard
 Global Search

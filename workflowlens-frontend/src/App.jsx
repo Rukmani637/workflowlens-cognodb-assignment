@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_BASE_URL = "http://localhost:8080/api";
+const API_BASE_URL = "https://workflowlens-cognodb-assignment.onrender.com/api";
 
 function App() {
   const [workflows, setWorkflows] = useState([]);

@@ -281,8 +281,8 @@ mvnw.cmd spring-boot:run
 ./mvnw spring-boot:run
 ```
 The backend runs on:
-http://localhost:8080
----
+http://localhost:8080<hr>
+
 ## 10. Frontend Setup
 Navigate to the frontend directory:
 ```text
@@ -394,7 +394,7 @@ Salesforce
         ↓
 Salesforce CRM
 ````
-This makes it easier to understand how a workflow is connected to other components.<hr>
+This makes it easier to understand how a workflow is connected to other components. <hr>
 ## 15. Impact Analysis
 Impact Analysis uses the dependency information to identify components that may be affected by changes.<br><br>
 For example, a change to Salesforce CRM can potentially affect:
@@ -449,8 +449,8 @@ Screenshots
 ## 18. Hosted Demo
 **Demo URL:** 
 [Open WorkflowLens](https://workflowlens-cognodb-assignment.vercel.app/)<br>
-The hosted demo is provide access to the running WorkflowLens application.
----
+The hosted demo is provide access to the running WorkflowLens application.<hr>
+
 ## 19. Screen Recording
 ### Screen Recording
 [![Watch the WorkflowLens Demo](https://youtu.be/91l96AB9ygI)](https://youtu.be/91l96AB9ygI)
